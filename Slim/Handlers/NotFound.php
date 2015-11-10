@@ -61,6 +61,7 @@ class NotFound
 <html>
     <head>
         <title>Page Not Found</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <style>
             body{
                 margin:0;
